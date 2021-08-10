@@ -6,10 +6,10 @@
 
 <artifactId>mavenproject</artifactId>
 
-<packaging>jar</packaging>
+<packaging>war</packaging>
 
 <version>1.0</version>
 
-<name>sample maven project</name>
+<name>mavenproject</name>
 
 </project>
